@@ -34,7 +34,7 @@ You can remove elements by their value using the `remove()` method.
 ```python
 my_list.remove('apple')  # Removes 'apple' from the list
 ```
-my_list.remove(my_list[3])
+my_list.remove(my_list[3])  -- apple will be removed
 
 ## Slicing a List
 Slicing allows you to create a new list from a subset of the original list.
