@@ -59,3 +59,4 @@ You can check if an element exists in a list using the `in` keyword.
 ```python
 is_present = 'banana' in my_list  # Checks if 'banana' is in the list (True)
 ```
+
